@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abu</h1>
-<h3 align="center">Software & Database</h3>
+<h3 align="center">Software & Systems Simplified</h3>
 
 - 🔭 I’m currently working on [Sea-shell](https://github.com/yumstar/Sea-shell)
 
-- 🌱 I’m currently learning **Django, AWS**
-
-- 👯 I’m looking to collaborate on **web apps and data analytics**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://abusaeed.ca/](https://abusaeed.ca/)
 
-- 💬 Ask me about **React, Python, and Data Science**
+- 💬 Ask me about **Python or large-scale systems**
 
-- 📫 How to reach me **abuhsaeed@outlook.com**
+- 📫 How to reach me: **abuhsaeed@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
