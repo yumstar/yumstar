@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abu</h1>
 <h3 align="center">Software & Systems Simplified</h3>
 
-- 🔭 I’m currently working on [Sea-shell](https://github.com/yumstar/Sea-shell)
+- 🔭 I’m currently working @ **evertz.io**
 
 - 🌱 I’m currently learning **AWS**
 
